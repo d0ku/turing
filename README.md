@@ -22,7 +22,7 @@ python3 turing.py <filename> <input>
 e.g.
 
 ```
-python3 turing.py palingrom "100001"
+python3 turing.py palindrome "100001"
 ```
 
 ### Interpreting results
